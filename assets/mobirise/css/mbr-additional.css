@@ -564,7 +564,7 @@ h6,
 
 #header2-r .mbr-section-title {
   font-size: 36px;
-  color: #475577;
+  color: #d14841;
 }
 #header2-r .mbr-section-text {
   font-size: 36px;
@@ -644,6 +644,10 @@ h6,
 }
 #msg-box5-v P {
   font-size: 20px;
+}
+#msg-box7-12 .mbr-section-title,
+#msg-box7-12 .lead p {
+  color: #fff;
 }
 #contacts4-h STRONG {
   color: #000000;
