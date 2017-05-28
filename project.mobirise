@@ -33,7 +33,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Green Living Solutions Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -544,8 +544,8 @@
     },
     "Tuneluri solare.html": {
       "settings": {
-        "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
+        "title": "Green Living Solutions - Lightway Sun Tunnels",
+        "meta_descr": ""
       },
       "components": [
         {
@@ -1159,8 +1159,8 @@
     },
     "pardoseala.html": {
       "settings": {
-        "title": "Site Maker Title",
-        "meta_descr": "Site Maker Description"
+        "title": "Green Living Solutions - Greentech Greenfloor",
+        "meta_descr": ""
       },
       "components": [
         {
@@ -1432,39 +1432,6 @@
           "title": "INTRO WITH IMAGE",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": "9",
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/20170519.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "KEY FEATURES",
-                "showText": true,
-                "text": "The surface of GEERFLOOR &nbsp;is compact and non-porous, making it stain resistantand easy to clean",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#41a85f",
-            "showBullets": true
-          },
-          "_anchor": "slider3-1g",
-          "articleLayout": false
         },
         {
           "_tags": [
