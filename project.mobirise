@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 64,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -1124,6 +1124,155 @@
           "title": "FULL WIDTH INTRO",
           "text": "Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#41a85f",
+            "showMeta": true
+          },
+          "title": "Let’s Save and Conserve the Environment",
+          "meta": "Do you also care about our air, the landscape, and how much we pay for electricity?"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#41a85f",
+            "showMeta": false
+          },
+          "title": "How much electricity do selected types of Lightway save during their lifetimes, a minimum of 45 years?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#41a85f"
+          },
+          "text": "<p>1 installed sun tunnel set of LW 400 HP Crystal&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 26,000 KWh.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">1 installed sun tunnel set of LW 800 Silver&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 66,000 KWh.</span></p>",
+          "_styles": {
+            "UL": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#41a85f",
+            "showMeta": false
+          },
+          "title": "How much CO2 is not released into the atmosphere over an entire lifetime of selected types of Lightway?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#41a85f"
+          },
+          "text": "<p>1 installed sun tunnel set LW 400 HP Crystal&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 25 tons of CO2.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">1 installed sun tunnel set of LW 800 Silver&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 66 tons of CO2.</span></p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#41a85f",
+            "showMeta": false
+          },
+          "title": "How much coal doesn’t have to be mined, transported and burned over the lifetime of selected types of Lightway?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#41a85f"
+          },
+          "text": "<p>1 installed sun tunnel set of LW 400 HP Crystal&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 41,000 Kg of coal.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">1 installed sun tunnel set of LW 800 Silver&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 106,000 Kg of coal.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [

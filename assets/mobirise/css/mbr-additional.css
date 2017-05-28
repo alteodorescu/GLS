@@ -668,6 +668,46 @@ h6,
 #msg-box7-12 .lead p {
   color: #fff;
 }
+#header3-1i .mbr-section-title,
+#header3-1i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1i SMALL {
+  color: #232323;
+}
+#header3-1m .mbr-section-title,
+#header3-1m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1m H3 {
+  font-size: 24px;
+}
+#content1-1n UL {
+  text-align: center;
+}
+#content1-1n P {
+  text-align: center;
+}
+#header3-1o .mbr-section-title,
+#header3-1o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1o H3 {
+  font-size: 24px;
+}
+#content1-1p P {
+  text-align: center;
+}
+#header3-1q .mbr-section-title,
+#header3-1q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1q H3 {
+  font-size: 24px;
+}
+#content1-1r P {
+  text-align: center;
+}
 #contacts4-h STRONG {
   color: #000000;
 }
