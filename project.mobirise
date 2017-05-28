@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "pardoseala.html",
+    "currentPage": "index.html",
     "name": "GLS",
     "theme": {
       "name": "mobirise3",
@@ -216,7 +216,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br>\nFax: +1 (0) 000 0000 002</p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
@@ -508,7 +508,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br>\nFax: +1 (0) 000 0000 002</p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1123,7 +1123,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br>\nFax: +1 (0) 000 0000 002</p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1456,7 +1456,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br>\nFax: +1 (0) 000 0000 002</p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
