@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "pardoseala.html",
+    "currentPage": "index.html",
     "name": "GLS",
     "theme": {
       "name": "mobirise3",
@@ -1360,7 +1360,7 @@
               }
             ],
             "fullScreen": false,
-            "bgColor": "#fff",
+            "bgColor": "#41a85f",
             "showBullets": true
           },
           "_anchor": "slider-13",
