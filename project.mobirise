@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Tuneluri solare.html",
     "name": "GLS",
     "theme": {
       "name": "mobirise3",
@@ -113,7 +113,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-final-gls-1.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-final-gls-large.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -127,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"alteodorescu.github.io/gls\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GREEN LIVING SOLUTIONS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -216,7 +216,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br>\nFax: +1 (0) 000 0000 002</p>",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br><br></p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
@@ -458,7 +458,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"alteodorescu.github.io/gls\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GREEN LIVING SOLUTIONS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -508,7 +508,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br>\nFax: +1 (0) 000 0000 002</p>",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br><br></p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
@@ -581,7 +581,7 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "36px",
-              "color": "#d14841"
+              "color": "#28324e"
             },
             ".mbr-section-text": {
               "font-size": "36px"
@@ -592,7 +592,7 @@
             "imageSize": "70",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-13.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-18.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -605,7 +605,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": false,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "media": {
@@ -649,9 +649,9 @@
           "_name": "header3",
           "_anchor": "header3-u",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#41a85f",
             "showMeta": true
           },
           "title": "What are sun tunnels?",
@@ -744,7 +744,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"alteodorescu.github.io/gls\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GREEN LIVING SOLUTIONS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -778,19 +778,20 @@
           "_name": "msg-box5",
           "_styles": {
             "P": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#fac51c"
             }
           },
           "_anchor": "msg-box5-v",
           "_params": {
             "imageSize": "43",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "7",
+            "paddingBottom": "7",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-22.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -837,13 +838,13 @@
           "_anchor": "msg-box5-w",
           "_params": {
             "imageSize": "52",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "7",
+            "paddingBottom": "7",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-15.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -880,7 +881,15 @@
           },
           "title": "The Dome",
           "text": "It is on the roof or façade of the building. Lightway sun tunnel domes are made of crystal or Plexiglas. Its task is to collect as much light from the sky as possible and send it into the tube. A dome mustn’t turn yellow or collect dust. It mustn’t alter the color quality and nature of sunlight even after many years of the sun tunnel’s functioning.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#232323"
+            },
+            "P": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_tags": [
@@ -890,13 +899,13 @@
           "_anchor": "msg-box5-z",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "7",
+            "paddingBottom": "7",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-14.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -933,7 +942,15 @@
           },
           "title": "The functionality of the dome",
           "text": "With sun tunnels it happens that they aren’t capable of delivering enough sunlight even from the very beginning of their service. Then after a few months or years, this is worsened by yellowing of a plastic roof dome, leading to baked-on layers of dust and smog on its surface which rain isn’t able to wash away and return the sun tunnel to a functioning state. That’s why Lightway developed a roof dome of crystal or Plexiglas.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -943,13 +960,13 @@
           "_anchor": "msg-box5-x",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "7",
+            "paddingBottom": "7",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-25.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -957,7 +974,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -996,13 +1013,13 @@
           "_anchor": "msg-box5-y",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "7",
+            "paddingBottom": "7",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-26.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -1039,7 +1056,15 @@
           },
           "title": "The Diffuser",
           "text": "The light diffuser is in the ceiling or wall of a room. Lightway’s diffuser is of sodium-potassium glass or of Plexiglas. It mustn’t distort the given color of sunlight and mustn’t age so that it is continuously allowing maximum light outflow. It must evenly distribute sunlight across the entire surface of the room.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -1059,7 +1084,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-16.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-21.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1123,7 +1148,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br>\nFax: +1 (0) 000 0000 002</p>",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br><br></p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1250,7 +1275,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"alteodorescu.github.io/gls\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GREEN LIVING SOLUTIONS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1456,7 +1481,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br>\nFax: +1 (0) 000 0000 002</p>",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br><br></p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",

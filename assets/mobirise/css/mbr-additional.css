@@ -564,7 +564,7 @@ h6,
 
 #header2-r .mbr-section-title {
   font-size: 36px;
-  color: #d14841;
+  color: #28324e;
 }
 #header2-r .mbr-section-text {
   font-size: 36px;
@@ -644,6 +644,25 @@ h6,
 }
 #msg-box5-v P {
   font-size: 20px;
+  color: #fac51c;
+}
+#msg-box5-w H3 {
+  color: #232323;
+}
+#msg-box5-w P {
+  color: #232323;
+}
+#msg-box5-z H3 {
+  color: #ffffff;
+}
+#msg-box5-z P {
+  color: #ffffff;
+}
+#msg-box5-y P {
+  color: #ffffff;
+}
+#msg-box5-y H3 {
+  color: #ffffff;
 }
 #msg-box7-12 .mbr-section-title,
 #msg-box7-12 .lead p {
