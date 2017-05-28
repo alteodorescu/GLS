@@ -794,6 +794,20 @@ h6,
 #slider3-21 P {
   text-align: left;
 }
+#header3-22 .mbr-section-title,
+#header3-22 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-22 SMALL {
+  color: #232323;
+}
+#slider-23 H2 {
+  text-align: left;
+  font-size: 36px;
+}
+#slider-23 DIV {
+  font-size: 30px;
+}
 #contacts4-1u STRONG {
   color: #000000;
 }

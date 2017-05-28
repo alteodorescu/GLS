@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Greentech flooring",
     "name": "GLS",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 74,
+    "uniqCompNum": 76,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -127,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"alteodorescu.github.io/gls\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GREEN LIVING SOLUTIONS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -216,7 +216,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br><br></p>",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: +4 (0) 0758 728 026</span><br><br></p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
@@ -458,7 +458,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"alteodorescu.github.io/gls\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GREEN LIVING SOLUTIONS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -508,7 +508,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br><br></p>",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: +4 (0) 0758 728 026</span><br><br></p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
@@ -744,7 +744,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"alteodorescu.github.io/gls\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GREEN LIVING SOLUTIONS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1297,7 +1297,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br><br></p>",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: +4 (0) 0758 728 026</span><br><br></p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1424,7 +1424,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"alteodorescu.github.io/gls\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GREEN LIVING SOLUTIONS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"produse.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tuneluri solare.html\">Lightway Sun Tunnels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pardoseala.html\">GreenTech flooring</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-7\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1793,6 +1793,99 @@
           "articleLayout": false
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-22",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#41a85f",
+            "showMeta": true
+          },
+          "title": "Installation",
+          "meta": "Easy to shape, easy to lay and remove. No silicone needed. <b>Greenfloor </b>adheres to the desired surface and it doesn't warp."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/102.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "The product should be laid on a flat surface; GREENFLOOR is easy to lay thanks to its interlocking geometric design.&nbsp;",
+                "showText": false,
+                "text": "The product should be laid on a flat surface; GREENFLOOR is easy to lay thanks to its interlocking geometric design.&nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/063.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "For maximum stability we recommend installing the flooring using the 1m2 format as the heavier weight prevents oscillation without compromising the ease of installation.&nbsp;",
+                "showText": false,
+                "text": "The product should be laid on a flat surface; GREENFLOOR is easy to lay thanks to its interlocking geometric design.&nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/133.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "If you want an extra guarantee that GREENFLOOR will adhere to the desired surface:<br><div><br></div><div>for installation on grass or earth: apply a thin layer of sand to ensure a flat surface;</div><div><span style=\"line-height: 1.1;\">for outdoor installation on a flat surface: apply a bioadhesive for use outdoors;</span><br></div><div><span style=\"line-height: 1.1;\">for indoor installation: apply a bioadhesive or a rough underlay.&nbsp;</span><br></div>",
+                "showText": false,
+                "text": "The product should be laid on a flat surface; GREENFLOOR is easy to lay thanks to its interlocking geometric design.&nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-23",
+          "articleLayout": false,
+          "_styles": {
+            "H2": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            "DIV": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1815,7 +1908,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:office@eleganceregia.eu\" class=\"text-white\">office@greenlivingsolutions.ro</a><br>\nPhone: +4 (0) 0758 728 026<br><br></p>",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: +4 (0) 0758 728 026</span><br><br></p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
