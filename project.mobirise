@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Tuneluri solare.html",
+    "currentPage": "index.html",
     "name": "GLS",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 64,
+    "uniqCompNum": 74,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -835,6 +835,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#232323"
+            },
+            "P": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "msg-box5-w",
           "_params": {
             "imageSize": "52",
@@ -881,21 +889,21 @@
           },
           "title": "The Dome",
           "text": "It is on the roof or façade of the building. Lightway sun tunnel domes are made of crystal or Plexiglas. Its task is to collect as much light from the sky as possible and send it into the tube. A dome mustn’t turn yellow or collect dust. It mustn’t alter the color quality and nature of sunlight even after many years of the sun tunnel’s functioning.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#232323"
-            },
-            "P": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-z",
           "_params": {
             "imageSize": 50,
@@ -942,15 +950,7 @@
           },
           "title": "The functionality of the dome",
           "text": "With sun tunnels it happens that they aren’t capable of delivering enough sunlight even from the very beginning of their service. Then after a few months or years, this is worsened by yellowing of a plastic roof dome, leading to baked-on layers of dust and smog on its surface which rain isn’t able to wash away and return the sun tunnel to a functioning state. That’s why Lightway developed a roof dome of crystal or Plexiglas.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -1010,6 +1010,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-y",
           "_params": {
             "imageSize": 50,
@@ -1056,15 +1064,7 @@
           },
           "title": "The Diffuser",
           "text": "The light diffuser is in the ceiling or wall of a room. Lightway’s diffuser is of sodium-potassium glass or of Plexiglas. It mustn’t distort the given color of sunlight and mustn’t age so that it is continuously allowing maximum light outflow. It must evenly distribute sunlight across the entire surface of the room.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -1176,13 +1176,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1n",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#41a85f"
-          },
-          "text": "<p>1 installed sun tunnel set of LW 400 HP Crystal&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 26,000 KWh.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">1 installed sun tunnel set of LW 800 Silver&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 66,000 KWh.</span></p>",
           "_styles": {
             "UL": {
               "text-align": "center"
@@ -1190,7 +1183,14 @@
             "P": {
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "content1-1n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#41a85f"
+          },
+          "text": "<p>1 installed sun tunnel set of LW 400 HP Crystal&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 26,000 KWh.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">1 installed sun tunnel set of LW 800 Silver&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 66,000 KWh.</span></p>"
         },
         {
           "_styles": {
@@ -1220,18 +1220,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content1-1p",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#41a85f"
           },
-          "text": "<p>1 installed sun tunnel set LW 400 HP Crystal&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 25 tons of CO2.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">1 installed sun tunnel set of LW 800 Silver&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 66 tons of CO2.</span></p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "<p>1 installed sun tunnel set LW 400 HP Crystal&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 25 tons of CO2.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">1 installed sun tunnel set of LW 800 Silver&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 66 tons of CO2.</span></p>"
         },
         {
           "_styles": {
@@ -1261,18 +1261,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content1-1r",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#41a85f"
           },
-          "text": "<p>1 installed sun tunnel set of LW 400 HP Crystal&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 41,000 Kg of coal.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">1 installed sun tunnel set of LW 800 Silver&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 106,000 Kg of coal.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "<p>1 installed sun tunnel set of LW 400 HP Crystal&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 41,000 Kg of coal.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">1 installed sun tunnel set of LW 800 Silver&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">saves on average 106,000 Kg of coal.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p>"
         },
         {
           "_tags": [
@@ -1331,9 +1331,9 @@
         }
       ]
     },
-    "pardoseala.html": {
+    "Greentech flooring": {
       "settings": {
-        "title": "Green Living Solutions - Greentech Greenfloor",
+        "title": "",
         "meta_descr": ""
       },
       "components": [
@@ -1393,7 +1393,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-i",
+          "_anchor": "menu-1s",
           "_params": {
             "bgColor": "#41a85f",
             "fontSize": "1",
@@ -1436,10 +1436,10 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "footer1-j",
+          "_anchor": "footer1-1t",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1455,157 +1455,342 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-1c",
+          "_name": "header1",
+          "_anchor": "header1-1v",
           "_params": {
-            "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/kursaal-1.jpeg",
-            "bgColor": "#2e2e2e",
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/031.jpg",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "GREENFLOOR",
+          "text": "An innovative flooring made from <b>100% recycled materials.</b><br>It is colorful, can be scented, <b>easy to lay and remove</b>, easy to shape and clean, it doesn't warp and it is <b>certified fire resistant</b>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-1d",
+          "_name": "features3",
+          "_anchor": "features3-1x",
           "_params": {
-            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/file.jpeg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
           },
-          "media": {
+          "media1": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/box01-en.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/elephant.png",
               "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
             }
           },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/box02-en.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/box03-en.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-20",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#41a85f",
+            "showMeta": false
+          },
+          "title": "MAIN CHARACTERISTICS:",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-1e",
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#41a85f"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-1z",
           "_params": {
-            "imageSize": 50,
+            "columnsColor": "#41a85f",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2017-02-11-photo.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
           },
-          "media": {
+          "media1": {
             "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raw.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
           },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title1": "Fire class resistance<br>CS2",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title2": "Stain resistance class<br>5/5",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Abrasion class<br>4/5",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Anti-slip properties<br>23 degrees average angle with shoes",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Anti-slip properties<br>20 degrees average angle with bare feet",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Frost-defrost resistance<br>100 cycles at -5/+5",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "7",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/aspetto01.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Look",
+                "showText": true,
+                "text": "The surface of Greenfloor 1.0 is compact and non-porous, making it stain resistant and easy to clean. As such it has passed abrasion and stain resistance tests with flying colors. <br>GreenFloor is available in two formats with different thicknesses, 50 x 50 cm and 100 x 100 cm, easy to lay due to being much lighter than classic concrete or ceramic tiles.&nbsp;<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/aspetto02.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Colours and personalisation",
+                "showText": true,
+                "text": "Another innovative characteristic is the option of personalizing the product with any color; thanks to the carefully selected recycled materials which ensure good color fastness, with a variety of colors and finishes. <br><span style=\"font-size: 1.5rem; line-height: 1.5;\">The flooring is currently available in 4 colours: Red (RAL reference code: 3020), Blue (RAL reference code: 5015), Green (RAL reference code: 6018) and Charcoal (RAL reference code: 7001). </span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Custom color are also avaialabre on request.</span><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/aspetto03.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Cleaning",
+                "showText": true,
+                "text": "Greenfloor 1.0 is resistant to the most difficult to remove and stubborn stains. Laboratory tests have guaranteed the easy removal of both oily and powdery stains ; even after some time, without compromising the product. <br>The surface appears smooth and non-porous, preventing the absorption of sweat and other liquids to avoid unpleasant odors.<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider3-21",
+          "articleLayout": false
         },
         {
           "_tags": [
@@ -1617,7 +1802,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "contacts4-k",
+          "_anchor": "contacts4-1u",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
