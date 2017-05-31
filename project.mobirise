@@ -216,7 +216,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: +4 (0) 0758 728 026</span><br><br></p>",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Mobile: +4 (0) 0758 728 026</span></p><br><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: +4 (0) 031 422 4385</span></p><br><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br></p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
@@ -508,7 +508,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: +4 (0) 0758 728 026</span><br><br></p>",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Mobile: +4 (0) 0758 728 026</span></p><br><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: +4 (0) 031 422 4385</span></p><br><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br></p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1297,7 +1297,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: +4 (0) 0758 728 026</span><br><br></p>",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Mobile: +4 (0) 0758 728 026</span></p><br><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: +4 (0) 031 422 4385</span></p><br><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br></p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1910,8 +1910,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1920,8 +1920,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1930,8 +1930,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/file-2-800x1066.png",
-                "image": "@PROJECT_PATH@/assets/images/file-2.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-02-07-photo-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2017-02-07-photo.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1942,6 +1942,36 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2017-02-11-photo-1-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2017-02-11-photo-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-03-04-photo-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2017-03-04-photo.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kursaal-1-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/kursaal-1.jpeg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kursaal-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/kursaal.jpeg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1981,7 +2011,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: +4 (0) 0758 728 026</span><br><br></p>",
+          "text1": "<p><strong>Address</strong><br>\n46 C.A. ROSETTI<br>Oltenita, CL 915400<br><br><br>\n<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Mobile: +4 (0) 0758 728 026</span></p><br><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: +4 (0) 031 422 4385</span></p><br><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><br></p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.lightwaydaylight.co.uk/\" target=\"_blank\">Lightway</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.greentechrecovery.it/index_en.php\" target=\"_blank\">Greentech</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
