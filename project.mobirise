@@ -1837,7 +1837,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/102.jpg",
+                "image": "@PROJECT_PATH@/assets/images/102-site.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1851,7 +1851,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/063.jpg",
+                "image": "@PROJECT_PATH@/assets/images/063-site.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1865,7 +1865,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/133.jpg",
+                "image": "@PROJECT_PATH@/assets/images/133-site.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
