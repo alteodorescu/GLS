@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 77,
+    "uniqCompNum": 78,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -1896,12 +1896,32 @@
             "paddingBottom": 1,
             "images": [
               {
-                "tags": "Animated",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/13-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/13.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-gal-800x1066.png",
+                "image": "@PROJECT_PATH@/assets/images/9-gal.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-gal-800x1066.png",
+                "image": "@PROJECT_PATH@/assets/images/10-gal.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-gal-800x1066.png",
+                "image": "@PROJECT_PATH@/assets/images/11-gal.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1910,8 +1930,38 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/9.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13-gal-800x1066.png",
+                "image": "@PROJECT_PATH@/assets/images/13-gal.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-02-07-photo-00000035-gal-800x1066.png",
+                "image": "@PROJECT_PATH@/assets/images/2017-02-07-photo-00000035-gal.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-02-25-photo-00000020-gal-800x1066.png",
+                "image": "@PROJECT_PATH@/assets/images/2017-02-25-photo-00000020-gal.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-000-gal-800x1066.png",
+                "image": "@PROJECT_PATH@/assets/images/file-000-gal.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1920,8 +1970,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/10.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kursaal-2-gal-800x1066.png",
+                "image": "@PROJECT_PATH@/assets/images/kursaal-2-gal.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1930,8 +1980,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2017-02-07-photo-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2017-02-07-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-03-at-16-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-03-03-at-16.21.56-2-gal.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1940,8 +1990,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2017-02-11-photo-1-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2017-02-11-photo-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-02-11-photo-00000036-gal-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/2017-02-11-photo-00000036-gal.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1950,8 +2000,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2017-03-04-photo-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2017-03-04-photo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2017-03-04-photo-00000033-gal-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/2017-03-04-photo-00000033-gal.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1960,18 +2010,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kursaal-1-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/kursaal-1.jpeg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kursaal-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/kursaal.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/kursaal-1-gal-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/kursaal-1-gal.png",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1979,12 +2019,12 @@
             "spacing": 1,
             "showText": false,
             "filter": false,
-            "bgColor": "#41a85f",
+            "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery3-24",
+          "_anchor": "gallery3-25",
           "articleLayout": false,
           "allItem": "All"
         },
