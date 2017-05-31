@@ -1820,6 +1820,15 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            "DIV": {
+              "font-size": "30px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -1874,16 +1883,7 @@
             "showBullets": true
           },
           "_anchor": "slider-23",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            "DIV": {
-              "font-size": "30px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
